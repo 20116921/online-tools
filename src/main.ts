@@ -179,7 +179,7 @@ export function initApp(): void {
               </button>
               <!-- 悬浮联系卡片 -->
               <div class="absolute right-0 top-full mt-2 w-72 bg-white dark:bg-slate-800 rounded-xl shadow-xl border border-slate-200 dark:border-slate-700 p-4 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
-                <div class="text-sm font-semibold text-slate-800 dark:text-slate-200 mb-3">有任何建议或合作可联系开发者</div>
+                <div class="text-sm font-semibold text-slate-800 dark:text-slate-200 mb-3">有话说联系开发者</div>
                 <div class="space-y-2 text-sm">
                   <div class="flex items-center gap-2 text-slate-600 dark:text-slate-400">
                     <svg class="w-4 h-4 text-green-500" viewBox="0 0 24 24" fill="currentColor">
